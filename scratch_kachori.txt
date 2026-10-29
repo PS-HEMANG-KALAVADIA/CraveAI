@@ -1,0 +1,51 @@
+=== QUERY: jaipur kachori ===
+Found 10 menu items for "jaipur kachori":
+1. Kachori Jalebi Combo — ₹550 | Veg | Jalaram Khaman House (restaurantId: 94345) (ID: 62003896)
+2. Onion Kachori (1 Pcs) — ₹45 | Veg | 4.3★ | Gwalia Sweets & Fast Food (restaurantId: 37578) (ID: 7448265) [has addons]
+3. Lilva Kachori — ₹261 | Veg | 4.4★ | Oshwal (restaurantId: 808645) (ID: 131141973)
+4. Kachori (1 Pcs) — ₹35 | Veg | 4.5★ | Gwalia Sweets & Fast Food (restaurantId: 37578) (ID: 117991467) [has addons]
+5. Dal kachori — ₹40 | Veg | 3.8★ | Shree Vrundavan Sweets (restaurantId: 641735) (ID: 105171436)
+6. Dry Fruit Kachori — ₹312 | Veg | 3.5★ | Jayhind Sweets (restaurantId: 37814) (ID: 46489292)
+7. Raj Kachori — ₹220 | Veg | Rasranjan (restaurantId: 1039462) (ID: 199455217)
+8. Khasta Kachori (with Dahi) — ₹179 | Veg | 5.0★ | Gajanand Pauva House (restaurantId: 662960) (ID: 196267361) [has addons]
+9. Farali Kachori(2pcs) — ₹109 | Veg | 2.6★ | Shree Dev Farali Center (restaurantId: 785850) (ID: 128626603)
+10. Farali Kachori(2pc) — ₹89 | Veg | 4.2★ | Bablu Shree Farali Center (restaurantId: 421326) (ID: 103131034)
+
+Some items have customisation options (variants/add-ons). Briefly ask the user which variant/size they prefer or if they want any add-ons. Keep it concise, e.g. "Chicken Biryani has size options (Reg/Large) — which do you prefer? Any add-ons?"
+
+⚠️ A rich UI widget may be shown to the user with this data. Avoid restating everything the widget already displays — instead, provide a brief recommendation or ask what they'd like to do next.
+
+=== QUERY: kachori ===
+Found 10 menu items for "kachori":
+1. Kachori Jalebi Combo — ₹550 | Veg | Jalaram Khaman House (restaurantId: 94345) (ID: 62003896)
+2. Onion Kachori (1 Pcs) — ₹45 | Veg | 4.3★ | Gwalia Sweets & Fast Food (restaurantId: 37578) (ID: 7448265) [has addons]
+3. Lilva Kachori — ₹261 | Veg | 4.4★ | Oshwal (restaurantId: 808645) (ID: 131141973)
+4. Kachori (1 Pcs) — ₹35 | Veg | 4.5★ | Gwalia Sweets & Fast Food (restaurantId: 37578) (ID: 117991467) [has addons]
+5. Raj Kachori — ₹220 | Veg | Rasranjan (restaurantId: 1039462) (ID: 199455217)
+6. Kachori [2 Piece] — ₹84 | Veg | 4.6★ | Gita Samosa Centre (restaurantId: 97115) (ID: 27446161)
+7. Farali Kachori(2pcs) — ₹109 | Veg | 4.5★ | Sawariya Farali Center (restaurantId: 702573) (ID: 115006327)
+8. Pyaz Kachori [2 Piece] — ₹96 | Veg | 4.4★ | Gita Samosa Centre (restaurantId: 97115) (ID: 27446163)
+9. Kachori 1 Pc — ₹87.3 | Veg | 4.2★ | Jay Malhar Restaurant (restaurantId: 567236) (ID: 101743316)
+10. Dal kachori — ₹40 | Veg | 3.8★ | Shree Vrundavan Sweets (restaurantId: 641735) (ID: 105171436)
+
+Some items have customisation options (variants/add-ons). Briefly ask the user which variant/size they prefer or if they want any add-ons. Keep it concise, e.g. "Chicken Biryani has size options (Reg/Large) — which do you prefer? Any add-ons?"
+
+⚠️ A rich UI widget may be shown to the user with this data. Avoid restating everything the widget already displays — instead, provide a brief recommendation or ask what they'd like to do next.
+
+=== QUERY: pyaaz kachori ===
+Found 10 menu items for "pyaaz kachori":
+1. Pyaz kachori — ₹45 | Veg | 3.7★ | Shree Vrundavan Sweets (restaurantId: 641735) (ID: 105171439) [has addons]
+2. Onion Kachori (1 Pcs) — ₹45 | Veg | 4.3★ | Gwalia Sweets & Fast Food (restaurantId: 37578) (ID: 7448265) [has addons]
+3. Pyaz Kachori (50 Gm X 2 Pcs) — ₹225 | Veg | Samosa & Co. By TGB (restaurantId: 722745) (ID: 202506278)
+4. Pyaz Kachori [2 Piece] — ₹96 | Veg | 4.4★ | Gita Samosa Centre (restaurantId: 97115) (ID: 27446163)
+5. Pyaz Kachori — ₹37 | Veg | 4.2★ | Agarwal Mithai Bhandar (restaurantId: 475372) (ID: 134097292)
+6. Dahi Pyaz Kachori Chaat — ₹108 | Veg | 4.8★ | Gita Samosa Centre (restaurantId: 97115) (ID: 112348982)
+7. Pyaaz Kachori [1 Piece] — ₹65 | Veg | 4.3★ | Mithai And More By Shreeji Dairy (restaurantId: 876730) (ID: 180657945)
+8. Pyaz Kachori Chatt — ₹75 | Veg | 3.9★ | Shree Vrundavan Sweets (restaurantId: 641735) (ID: 106829932)
+9. Jodhpuri Pyaaz Kachori ( 1 pc) — ₹54 | Veg | 4.5★ | Mm Kota Kachori (restaurantId: 104732) (ID: 104185167) [has addons]
+10. Kanda Kachori — ₹39 | Veg | 4.4★ | Kunal Sweets (restaurantId: 649350) (ID: 106633958)
+
+Some items have customisation options (variants/add-ons). Briefly ask the user which variant/size they prefer or if they want any add-ons. Keep it concise, e.g. "Chicken Biryani has size options (Reg/Large) — which do you prefer? Any add-ons?"
+
+⚠️ A rich UI widget may be shown to the user with this data. Avoid restating everything the widget already displays — instead, provide a brief recommendation or ask what they'd like to do next.
+

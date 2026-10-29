@@ -1,0 +1,15 @@
+Found 10 menu items for "pani puri":
+1. Paani Puri (5 Pc) — ₹65 | Veg | 4.5★ | Gwalia Sweets & Fast Food (restaurantId: 37578) (ID: 125412412) [has addons]
+2. Pani Puri Patakha Sorbet (Small Scoop [80 Ml]) — ₹93.1 | Veg | Apsara Ice Creams (restaurantId: 263962) (ID: 164184485)
+3. 100 nos. Panipuri — ₹90 | Veg | 5.0★ | Anand Sweet & Dairy Parlour (restaurantId: 127581) (ID: 37022549)
+4. Pani Puri Patakha Sorbet — ₹94 | Veg | 3.5★ | Apsara Ice Creams (restaurantId: 263962) (ID: 66090502)
+5. Pani Puri (8 Pcs) (Golgappa) — ₹169 | Veg | 4.2★ | UBQ-Meals,Thalis & Bowls (restaurantId: 105268) (ID: 187534993) [has addons]
+6. Pani Puri — ₹240 | Veg | 4.7★ | Swati Snacks (restaurantId: 91930) (ID: 26110756) [has addons]
+7. Pani Puri (8 Pcs) (Golgappa) — ₹169 | Veg | 5.0★ | Barbeque Nation (restaurantId: 300371) (ID: 187533688) [has addons]
+8. Pani Puri - Suji — ₹71.5 | Veg | 4.0★ | Bikanervala (restaurantId: 71637) (ID: 206897133)
+9. Regular Panipuri — ₹270 | Veg | 4.6★ | Janvi Panipuri Center (restaurantId: 408074) (ID: 132053340) [has addons]
+10. Pani Puri - Atta — ₹71.5 | Veg | Bikanervala (restaurantId: 71637) (ID: 206897130)
+
+Some items have customisation options (variants/add-ons). Briefly ask the user which variant/size they prefer or if they want any add-ons. Keep it concise, e.g. "Chicken Biryani has size options (Reg/Large) — which do you prefer? Any add-ons?"
+
+⚠️ A rich UI widget may be shown to the user with this data. Avoid restating everything the widget already displays — instead, provide a brief recommendation or ask what they'd like to do next.

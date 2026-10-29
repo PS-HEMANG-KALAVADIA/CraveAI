@@ -1,0 +1,48 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Swiggy authentication tokens
+.swiggy_token.json
+.swiggy_auth_state.json
+**/.swiggy_token.json
+**/.swiggy_auth_state.json
+
+# Python virtual environments
+.venv/
+venv/
+env/
+**/.venv/
+**/venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node.js dependencies
+node_modules/
+**/node_modules/
+
+# Frontend build output
+dist/
+**/dist/
+coverage/
+**/coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
