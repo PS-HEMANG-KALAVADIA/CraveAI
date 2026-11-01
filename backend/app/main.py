@@ -9,7 +9,6 @@ if sys.platform == "win32":
 load_dotenv(Path(__file__).resolve().parents[2] / ".env")
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.api.chat import router as chat_router
 
 from contextlib import asynccontextmanager
 from app.mcp_client.client import init_all_clients, close_all_clients

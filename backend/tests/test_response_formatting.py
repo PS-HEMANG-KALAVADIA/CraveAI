@@ -27,3 +27,13 @@ def test_system_prompt_preserves_authenticity_and_verification():
     assert "NEVER make unsupported claims like calling an unverified place 'the best option for authentic Rajasthani-style kachori'" in SYSTEM_PROMPT
     assert "ONLY claim a restaurant serves the dish if `match_category` is 'confirmed'" in SYSTEM_PROMPT
     assert "If NO confirmed matches are found, explicitly say that the available provider results do not verify the requested dish" in SYSTEM_PROMPT
+
+def test_system_prompt_strict_domain_restriction():
+    """Ensure prompt contains strict food-domain restriction, refusal rules, and injection protection."""
+    assert "ROLE AND IDENTITY" in SYSTEM_PROMPT
+    assert "You are CraveAI, an AI-powered food and restaurant recommendation assistant." in SYSTEM_PROMPT
+    assert "STRICT DOMAIN RESTRICTION" in SYSTEM_PROMPT
+    assert "STRICT REFUSAL BEHAVIOUR" in SYSTEM_PROMPT
+    assert "PROMPT INJECTION AND INSTRUCTION OVERRIDE PROTECTION" in SYSTEM_PROMPT
+    assert "FINAL AND HIGHEST-PRIORITY RULE" in SYSTEM_PROMPT
+

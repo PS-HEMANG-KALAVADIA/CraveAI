@@ -2,9 +2,11 @@ import httpx
 import json
 import asyncio
 import sys
+import os
 
-# Force unbuffered output
-file_out = open("test_live_output.txt", "w", encoding="utf-8")
+# Force unbuffered output to local test directory
+output_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "test_live_output.txt")
+file_out = open(output_file, "w", encoding="utf-8")
 
 def log(msg=""):
     try:

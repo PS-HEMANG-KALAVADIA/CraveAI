@@ -3,7 +3,13 @@ import sys
 import os
 import json
 
-sys.path.append(os.path.join(os.path.dirname(__file__), "backend"))
+if sys.platform == "win32":
+    asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
+
+# Add backend to path so we can import the clients
+backend_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+if backend_dir not in sys.path:
+    sys.path.insert(0, backend_dir)
 
 from app.mcp_client.client import get_food_knowledge_client, get_weather_client
 
